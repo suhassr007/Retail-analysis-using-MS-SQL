@@ -1,2 +1,2 @@
-# Retain-analysis-using-MS-SQL
+# Retail-analysis-using-MS-SQL
 Project done in MS sql to show the retail analysis
